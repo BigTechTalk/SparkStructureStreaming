@@ -1,4 +1,4 @@
-package com.bigtechtalk.spark.example
+package org.bigtechtalk.spark
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.streaming.Trigger
